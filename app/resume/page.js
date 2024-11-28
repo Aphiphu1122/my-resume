@@ -62,9 +62,9 @@ export default function Resume() {
           <section className="mb-8">
             <h2 className="text-2xl font-bold text-red-900 border-b-2 pb-2 mb-4">ผลงานหรือความสำเร็จ</h2>
             <ul className="list-disc pl-5 space-y-2 text-gray-700">
-              <li>พัฒนาเว็บไซต์อีคอมเมิร์ซให้กับธุรกิจในท้องถิ่น</li>
-              <li>สร้างระบบจัดการเนื้อหาที่ใช้สำหรับการปรับปรุงเว็บไซต์ที่มีผู้เข้าชมจำนวนมาก</li>
-              <li>ได้รับรางวัลนักพัฒนายอดเยี่ยมจากบริษัท A</li>
+              <li>พัฒนาเว็บไซต์ร้านอาหาร</li>
+              <li>พัฒนาเว็บไซต์ร้านเสื้อผ้า</li>
+              <li>พัฒนาเว็บไซต์ร้านขายเกม</li>
             </ul>
           </section>
 
