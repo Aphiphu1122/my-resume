@@ -28,17 +28,17 @@ export default function Resume() {
             <h2 className="text-2xl font-bold text-red-900 border-b-2 pb-2 mb-4">ประวัติการศึกษาและประสบการณ์</h2>
             <div className="space-y-4">
               <div>
-                <strong className="text-lg text-indigo-600">ปริญญาตรี: Solfware Engineer</strong> - มหาวิทยาลัยพะเยา (2023 - 2024)
+                <strong className="text-lg text-gray-600">ปริญญาตรี: Solfware Engineer</strong> - มหาวิทยาลัยพะเยา (2023 - 2024)
                 <p className="text-gray-600 mt-1">ศึกษาด้านการพัฒนาซอฟต์แวร์และการออกแบบระบบ</p>
               </div>
               <div>
-                <strong className="text-lg text-indigo-600">Frontend Developer</strong> - Company A (2020-2022)
+                <strong className="text-lg text-gray-600">Frontend Developer</strong> - Company A (2020-2022)
                 <p className="text-gray-600 mt-1">
                   พัฒนาและปรับปรุง UI/UX
                 </p>
               </div>
               <div>
-                <strong className="text-lg text-indigo-600">Backend Developer</strong> - Company B (2018-2020)
+                <strong className="text-lg text-gray-600">Backend Developer</strong> - Company B (2020-2022)
                 <p className="text-gray-600 mt-1">
                   สร้างและดูแลระบบ API
                 </p>
@@ -48,19 +48,19 @@ export default function Resume() {
 
           
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-indigo-600 border-b-2 pb-2 mb-4">ทักษะและความสามารถ</h2>
+            <h2 className="text-2xl font-bold text-red-900 border-b-2 pb-2 mb-4">ทักษะและความสามารถ</h2>
             <ul className="list-disc pl-5 space-y-2 text-gray-700">
               <li>React.js, Node.js, Express.js</li>
               <li>HTML5, CSS3, JavaScript</li>
-              <li>Tailwind CSS, Bootstrap</li>
-              <li>REST APIs, GraphQL</li>
-              <li>MySQL, MongoDB</li>
+              <li>Tailwind CSS</li>
+              <li>REST APIs</li>
+              <li>MySQL,MariaDB</li>
             </ul>
           </section>
 
           
           <section className="mb-8">
-            <h2 className="text-2xl font-bold text-indigo-600 border-b-2 pb-2 mb-4">ผลงานหรือความสำเร็จ</h2>
+            <h2 className="text-2xl font-bold text-red-900 border-b-2 pb-2 mb-4">ผลงานหรือความสำเร็จ</h2>
             <ul className="list-disc pl-5 space-y-2 text-gray-700">
               <li>พัฒนาเว็บไซต์อีคอมเมิร์ซให้กับธุรกิจในท้องถิ่น</li>
               <li>สร้างระบบจัดการเนื้อหาที่ใช้สำหรับการปรับปรุงเว็บไซต์ที่มีผู้เข้าชมจำนวนมาก</li>
@@ -70,7 +70,7 @@ export default function Resume() {
 
           
           <section>
-            <h2 className="text-2xl font-bold text-indigo-600 border-b-2 pb-2 mb-4">คุณสมบัติเฉพาะ</h2>
+            <h2 className="text-2xl font-bold text-red-900 border-b-2 pb-2 mb-4">คุณสมบัติเฉพาะ</h2>
             <p className="text-gray-700 leading-relaxed">
               - มีความสามารถในการทำงานเป็นทีมและแก้ไขปัญหาได้ดี <br />
               - มีความรับผิดชอบสูง และสามารถทำงานภายใต้ความกดดันได้ <br />
