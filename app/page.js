@@ -4,9 +4,9 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="text-center">
-        {/*  */}
+        {/* รูปภาพทรงวงกลม */}
         <img
-          src="/profile.jpg"
+          src="/POOH1.jpg"
           alt="Profile Picture"
           className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-blue-500"
         />
