@@ -3,8 +3,7 @@ export default function Resume() {
     <div className="min-h-screen bg-black-50 p-6">
       <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
         
-        {/* Header Section */}
-        <header className="bg-red-900 text-white text-center py-8">
+        <header className="bg-purple-900 text-white text-center py-8">
           <h1 className="text-3xl font-semibold">Aphiphu Thammetha</h1>
           <p className="text-lg font-medium mt-2">Web Developer | SE | 66023029</p>
         </header>
