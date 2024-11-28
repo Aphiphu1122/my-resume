@@ -4,9 +4,18 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-50">
       <div className="text-center">
-        <h1 className="text-3xl font-bold mb-4">Welcome to My Website</h1>
+        {/*  */}
+        <img
+          src="/profile.jpg"
+          alt="Profile Picture"
+          className="w-32 h-32 rounded-full mx-auto mb-4 border-4 border-blue-500"
+        />
+        <h1 className="text-3xl font-bold mb-4">Welcome to My Webpage Resume</h1>
         <p className="text-gray-600 mb-6">
-          Click the button below to view my resume.
+          Hi this is my resume. My name is Aphiphu Thammetha.
+        </p>
+        <p className="text-gray-600 mb-6">
+          Click the button to view my resume.
         </p>
         <Link
           href="/resume"
