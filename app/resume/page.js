@@ -1,13 +1,13 @@
 export default function Resume() {
   return (
-    <div className="min-h-screen bg-gradient-to-r from-pink-500 via-white to-pink-500 p-6">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-b from-pink-900 via-pink-600 to-pink-200">
       <div className="max-w-4xl mx-auto bg-white shadow-lg rounded-lg overflow-hidden">
         
         <header className="bg-pink-600 text-white text-center py-2">
           <img
             src="/POOH1.jpg"
             alt="Profile Picture"
-            className="w-24 h-24 rounded-full mx-auto border-4 border-white mb-4"
+            className="w-23 h-24 rounded-full mx-auto border-4 border-white mb-4"
           />
           <h1 className="text-3xl font-bold">Aphiphu Thammetha</h1>
           <p className="text-lg font-medium mt-2">Web Developer | SE | 66023029</p>
@@ -28,7 +28,7 @@ export default function Resume() {
             <h2 className="text-2xl font-bold text-pink-600 border-b-2 pb-2 mb-4">ประวัติการศึกษาและประสบการณ์</h2>
             <div className="space-y-4">
               <div>
-                <strong className="text-lg text-pink-700">ปริญญาตรี: Solfware Engineer</strong> - มหาวิทยาลัยพะเยา (2023 - 2024)
+                <strong className="text-lg text-pink-700">ปริญญาตรี: Solfware Engineer</strong > - มหาวิทยาลัยพะเยา (2023 - 2024)
                 <p className="text-gray-800 mt-1">ศึกษาด้านการพัฒนาซอฟต์แวร์และการออกแบบระบบ</p>
               </div>
               <div>
