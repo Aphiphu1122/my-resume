@@ -20,7 +20,7 @@ export default function Home() {
           Hi, this is my resume. My name is Aphiphu Thammetha.
         </p>
         <p className="text-pink-500 font-semibold mb-6">
-          Click the button to view my resume.
+          Click the button to view my Resume.
         </p>
 
         <Link
