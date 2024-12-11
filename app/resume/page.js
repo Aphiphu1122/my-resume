@@ -9,7 +9,7 @@ export default function Resume() {
             alt="Profile Picture"
             className="w-23 h-24 rounded-full mx-auto border-4 border-white mb-4"
           />
-          <h1 className="text-3xl font-bold">Aphiphu Thammetha</h1>
+          <h1 className="text-3xl font-bold">xawdwd</h1>
           <p className="text-lg font-medium mt-2">Web Developer | SE | 66023029</p>
         </header>
 
